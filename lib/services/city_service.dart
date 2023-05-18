@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:weatherweather/model.dart/city_info.dart';
 import 'package:http/http.dart' as http;
 
-import '../model.dart/constants.dart';
+import '../theme/constants.dart';
 
 Constants myConstaints = Constants();
 

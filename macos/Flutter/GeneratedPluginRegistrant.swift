@@ -7,7 +7,7 @@ import Foundation
 
 import flutter_local_notifications
 import geolocator_apple
-import path_provider_macos
+import path_provider_foundation
 import url_launcher_macos
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {

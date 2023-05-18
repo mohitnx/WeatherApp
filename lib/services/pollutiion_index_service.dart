@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:weatherweather/model.dart/pollution_info.dart';
 import 'package:http/http.dart' as http;
-import '../model.dart/constants.dart';
+import '../theme/constants.dart';
 
 Constants myConstaints = Constants();
 Future<PollutionInfo> pollutionService(lat, long) async {

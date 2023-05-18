@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
-import 'package:weatherweather/model.dart/constants.dart';
+import 'package:weatherweather/theme/constants.dart';
 
 import '../model.dart/weather_info.dart';
 
