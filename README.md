@@ -24,3 +24,6 @@ Video:
 
 https://github.com/mohitnx/WeatherApp/assets/74180772/e1488c26-8c3f-46d9-aa08-eda0c7e8c09d
 
+
+
+![weathergif](https://github.com/mohitnx/WeatherApp/assets/74180772/b3ab7681-59f4-41cb-8b43-50a869894d19)
