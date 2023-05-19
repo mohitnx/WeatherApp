@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
-import 'package:weatherweather/model.dart/city_info.dart';
+import 'package:weatherweather/models/city_info.dart';
 import 'package:http/http.dart' as http;
 
 import '../theme/constants.dart';

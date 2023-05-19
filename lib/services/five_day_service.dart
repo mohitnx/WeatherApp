@@ -1,10 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:weatherweather/Pages/Five_Day_Forcast.dart';
 import 'package:weatherweather/theme/constants.dart';
-import 'package:weatherweather/model.dart/five_day_forcast.dart';
-
-import '../model.dart/weather_info.dart';
 
 Constants myConstaints = Constants();
 

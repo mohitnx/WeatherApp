@@ -3,15 +3,9 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:provider/provider.dart';
-import 'package:syncfusion_flutter_charts/charts.dart';
-import 'package:weatherweather/Pages/Home_page.dart';
 import 'package:weatherweather/Pages/single_city_details.dart';
 import 'package:weatherweather/Pages/snackbar.dart';
 import 'package:weatherweather/Provider/city_provider.dart';
-import 'package:weatherweather/Provider/notification_provider.dart';
-import 'package:weatherweather/main.dart';
-import 'package:weatherweather/theme/constants.dart';
-import 'package:weatherweather/services/current_location.dart';
 
 class GetCityName extends StatefulWidget {
   const GetCityName({super.key});

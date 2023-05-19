@@ -328,20 +328,6 @@ class _FiveDayDetailsState extends State<FiveDayDetails> {
   }
 }
 
-/*<ChartSeries<TempModel, String>>[
-            LineSeries<TempModel, String>(
-              dataSource: chartData,
-              xValueMapper: (TempModel chartData, _) => chartData.day,
-              yValueMapper: (TempModel chartData, _) => chartData.date,
-              name: 'Data',
-              markerSettings: MarkerSettings(
-                borderWidth: 0,
-                isVisible: true,
-              ),
-              dataLabelSettings: DataLabelSettings(isVisible: true),
-            )
-          ],*/
-
 class TempData {
   double temp;
   double day;

@@ -8,9 +8,6 @@ import 'package:provider/provider.dart';
 import 'package:weatherweather/Pages/Home_page.dart';
 import 'package:weatherweather/Pages/snackbar.dart';
 import 'package:weatherweather/Provider/city_provider.dart';
-import 'package:weatherweather/Provider/notification_provider.dart';
-import 'package:weatherweather/theme/constants.dart';
-
 import '../Provider/citiy_provider_two.dart';
 
 class DefaultCities extends StatefulWidget {

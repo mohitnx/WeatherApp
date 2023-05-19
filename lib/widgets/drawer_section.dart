@@ -7,9 +7,6 @@ import 'package:weatherweather/Pages/Home_page.dart';
 import 'package:weatherweather/Pages/default_cities.dart';
 import 'package:weatherweather/Pages/snackbar.dart';
 import 'package:weatherweather/Provider/city_provider.dart';
-import 'package:weatherweather/Provider/notification_provider.dart';
-import 'package:weatherweather/main.dart';
-import 'package:weatherweather/theme/constants.dart';
 import 'package:weatherweather/theme/theme_manager.dart';
 
 class DrawerSection extends StatefulWidget {

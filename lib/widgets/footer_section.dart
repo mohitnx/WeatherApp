@@ -4,7 +4,6 @@ import 'package:provider/provider.dart';
 import 'package:weatherweather/Provider/citiy_provider_two.dart';
 
 import 'package:weatherweather/Provider/city_provider.dart';
-import 'package:weatherweather/theme/constants.dart';
 
 class FooterSection extends StatefulWidget {
   bool isSecondCity;

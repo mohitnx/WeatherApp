@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:weatherweather/Pages/getting_city_name.dart';
-import 'package:weatherweather/theme/constants.dart';
 
 class TopBar extends StatelessWidget {
   const TopBar({super.key});
@@ -44,31 +43,3 @@ class TopBar extends StatelessWidget {
     );
   }
 }
-
-
-/*
-  TextButton(
-    //               child: Text(
-    //                 'Refresh',
-    //                 style: TextStyle(color: myColor.secondaryColor),
-    //               ),
-    //               onPressed: () async {
-    //                 try {
-    //                   final result =
-    //                       await InternetAddress.lookup('example.com');
-    //                   if (result.isNotEmpty &&
-    //                       result[0].rawAddress.isNotEmpty) {
-    //                     await Provider.of<CityProvider>(context, listen: false)
-    //                         .refreshFunction(context, lat, long);
-    //                   }
-    //                 } on SocketException catch (_) {
-    //                   showSnackBar(context,
-    //                       'Check the internet connection and try again');
-    //                 }
-    //               },
-    //             ),
-    //           ],
-    //         ),
-    //       ),
-
-    */

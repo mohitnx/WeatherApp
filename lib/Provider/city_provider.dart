@@ -1,10 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:intl/intl.dart';
-import 'package:weatherweather/Pages/snackbar.dart';
-import 'package:weatherweather/model.dart/city_info.dart';
-import 'package:weatherweather/model.dart/five_day_forcast.dart';
-import 'package:weatherweather/model.dart/pollution_info.dart';
-import 'package:weatherweather/model.dart/weather_info.dart';
+import 'package:weatherweather/models/city_info.dart';
+import 'package:weatherweather/models/five_day_forcast.dart';
+import 'package:weatherweather/models/pollution_info.dart';
+import 'package:weatherweather/models/weather_info.dart';
 import 'package:weatherweather/services/city_service.dart';
 import 'package:weatherweather/services/five_day_service.dart';
 import 'package:weatherweather/services/pollutiion_index_service.dart';

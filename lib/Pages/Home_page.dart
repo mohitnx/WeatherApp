@@ -1,12 +1,7 @@
-import 'dart:async';
-import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'package:weatherweather/Pages/single_city_details.dart';
-import 'package:weatherweather/Pages/snackbar.dart';
-import 'package:weatherweather/Provider/city_provider.dart';
 
 import '../Provider/notification_provider.dart';
 

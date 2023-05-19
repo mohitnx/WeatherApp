@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:weatherweather/model.dart/pollution_info.dart';
+import 'package:weatherweather/models/pollution_info.dart';
 import 'package:http/http.dart' as http;
 import '../theme/constants.dart';
 

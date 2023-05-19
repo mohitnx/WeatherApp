@@ -8,7 +8,7 @@ import 'package:provider/provider.dart';
 import 'package:weatherweather/Pages/Home_page.dart';
 import 'package:weatherweather/Provider/city_provider.dart';
 import 'package:weatherweather/main.dart';
-import '../model.dart/image_utils.dart';
+import '../models/image_utils.dart';
 
 class NotiProvider extends ChangeNotifier {
   String hh = 'hh';
@@ -23,13 +23,7 @@ class NotiProvider extends ChangeNotifier {
     );
     AndroidNotificationDetails androidDetails = AndroidNotificationDetails(
       'channelId',
-      'channelName',
-      priority: Priority.max,
-      //importance determines the behavior of shoing nofitifaion...if max then it comes as pop up
-      //if not max then it will just come in notificaaton panel of app and we have to open the drawer to see it
-      importance: Importance.max,
-      styleInformation: styleInformation,
-
+      'ikj',
       enableVibration: true,
       playSound: true,
     );
