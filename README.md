@@ -18,5 +18,9 @@ Features:
 
 
 
-Screenshots:
+
+
+Video:
+
+https://github.com/mohitnx/WeatherApp/assets/74180772/e1488c26-8c3f-46d9-aa08-eda0c7e8c09d
 
